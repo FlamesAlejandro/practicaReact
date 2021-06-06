@@ -1,0 +1,12 @@
+
+body {
+    padding: 50px;
+}
+
+p {
+    cursor: pointer
+}
+
+.list-group-item {
+    display: flex;
+}

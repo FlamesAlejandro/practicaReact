@@ -1,0 +1,15 @@
+import React from 'react'
+import { UserContext } from './UserContext'
+
+export const HomeScreen = () => {
+    
+    const userContext = useContext()
+
+    return (
+        <div>
+            <h1>HomeScreen</h1>
+            <hr />
+            
+        </div>
+    )
+}
